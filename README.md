@@ -1,0 +1,1 @@
+# AI-based-natural-disaster-intensity-analysis-using-ibm-waston
